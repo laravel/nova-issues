@@ -9,7 +9,8 @@ about: Report a general Nova issue
 
 - Laravel Version: #.#.#
 - Nova Version: #.#.#
-- PHP Version:
+- PHP Version: #.#
+- Operating System and Version: #.#
 
 ### Description:
 
