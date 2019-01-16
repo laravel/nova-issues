@@ -1,6 +1,6 @@
 ---
 name: "💡 Feature Request"
-about: 'Feature requests are automatically closed'
+about: 'Feature requests are automatically closed, but still welcome.'
 
 ---
 
