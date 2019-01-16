@@ -1,6 +1,6 @@
 ---
 name: "💡 Feature Request"
-about: 'For ideas or feature requests, email nova@laravel.com'
+about: 'Feature requests are automatically closed'
 
 ---
 
