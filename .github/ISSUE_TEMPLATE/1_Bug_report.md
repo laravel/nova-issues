@@ -11,6 +11,7 @@ about: Report a general Nova issue
 - Nova Version: #.#.#
 - PHP Version: #.#
 - Operating System and Version: #.#
+- Browser type and version: #.#
 
 ### Description:
 
