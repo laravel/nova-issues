@@ -1,7 +1,6 @@
 ---
 name: "🔒 Security Vulnerabilities"
-about: 'For reporting security-related issues, e-mail nova@laravel.com'
-
+about: "For reporting security-related issues, e-mail nova@laravel.com"
 ---
 
 PLEASE DON'T DISCLOSE SECURITY-RELATED ISSUES PUBLICLY, SEE BELOW.
