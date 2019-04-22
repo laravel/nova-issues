@@ -1,15 +1,13 @@
 ---
-name: "🧐 Support Question"
-about: 'This repository is only for reporting bugs or problems. See forums'
-
+name: "❓General Question"
+about: "This repository is only for reporting bugs or problems. See forums"
 ---
 
-This repository is only for reporting bugs or issues. If you need support, please use the forums:
+Technical support is not provided via this repository. Pro license holders are welcome to email support at [nova@laravel.com](mailto:nova@laravel.com). For all other support requests, please rely on the community resource available here:
 
-- https://laracasts.com/discuss/channels/nova
+- [Larachat Slack](https://larachat.co)
+- [Laravel Discord](https://discord.gg/FDzEUYP)
+- [Laracasts Nova Channel](https://laracasts.com/discuss/channels/nova)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/laravel-nova)
 
-Pro license holders may also email support directly at nova@laravel.com.
-
-Alternatively, you may use Slack (https://larachat.co/), Discord (https://discord.gg/FDzEUYP), or Stack Overflow (http://stackoverflow.com/questions/tagged/laravel-nova).
-
-Thanks!
+Thank you!

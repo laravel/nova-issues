@@ -15,10 +15,9 @@ supportComment: >
 close: true
 
 # Lock issues marked as support requests
-lock: false
+lock: true
 
 # Assign `off-topic` as the reason for locking. Set to `false` to disable
 setLockReason: true
-
 # Repository to extend settings from
 # _extends: repo
