@@ -8,10 +8,15 @@ about: "Report a Nova bug."
 - Laravel Version: #.#.#
 - Nova Version: #.#.#
 - PHP Version: #.#
+- Database Driver and Version: #.#
 - Operating System and Version: #.#
 - Browser type and version: #.#
 - Reproduction Repository: https://github.com/###/###
 
-### Description:
+### Description
 
-### Steps To Reproduce:
+<!-- Please describe the issue in as much detail as possible. -->
+
+### Steps To Reproduce
+
+<!-- Please state the steps required to reproduce this issue in as much detail as possible. -->
