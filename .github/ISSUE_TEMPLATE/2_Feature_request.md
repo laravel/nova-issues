@@ -1,5 +1,5 @@
 ---
-name: "💡 Feature Request"
+name: "Feature Request"
 about: "Feature requests are automatically closed, but still welcome."
 ---
 
