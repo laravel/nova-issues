@@ -14,4 +14,4 @@ about: "Report a Nova bug."
 ### Description:
 
 
-### Steps To Reproduce:
+### Detailed steps to reproduce the issue on a fresh Nova installation:
