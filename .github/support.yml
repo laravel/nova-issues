@@ -11,6 +11,8 @@ supportComment: >
   If you're Pro license holder, feel free to contact support at 
   nova@laravel.com.
 
+  Please direct general questions to [#nova on Laravel's Discord](https://discordapp.com/invite/mPZNm7A) or [#nova on the Larachat Slack Channel](https://larachat.co/).
+
 # Close issues marked as support requests
 close: true
 
