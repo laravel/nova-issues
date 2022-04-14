@@ -2,6 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Ideas & Feature Requests
     url: https://github.com/laravel/nova-issues/discussions/new?category=ideas-feature-requests
+    about: For ideas or feature requests, start a new discussion 
   - name: Support Question
     url: https://nova.laravel.com/docs/4.0/support.html#support-questions
   - name: Documentation Issue
