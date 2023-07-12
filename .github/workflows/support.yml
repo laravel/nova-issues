@@ -1,4 +1,4 @@
-name: 'Support Requests'
+name: "Support Requests"
 
 on:
   issues:
@@ -14,12 +14,12 @@ jobs:
       - uses: dessant/support-requests@v2
         with:
           github-token: ${{ github.token }}
-          support-label: 'support'
+          support-label: "support"
           issue-comment: >
             :wave: @{issue-author}, we use the issue tracker exclusively
-            for bug reports and feature requests. However, this issue appears
+            for bug reports. However, this issue appears
             to be a support request. Please use our support channels
             to get help with the project.
           close-issue: true
           lock-issue: true
-          issue-lock-reason: 'off-topic'
+          issue-lock-reason: "off-topic"
